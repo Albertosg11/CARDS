@@ -1,0 +1,52 @@
+body{
+    /*Color de fondo*/
+    background-color: #2f2f4d;
+    /*Color de letra*/
+    color: #e8d18e;
+    /*Tamaño de letra*/
+    font-size: 24px;
+    /*alinear texto*/
+    text-align: justify;
+    margin: 25px;
+    padding: 30px;
+    
+}
+
+
+h1 {
+    color: #bab195;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h5 {
+    color: #11091a;
+}
+
+.card-text{
+    color: #626970;
+
+}
+
+.card-body{
+    background-color: #e8d18e;
+    color: #11091a;
+}
+
+.spacio{
+    margin-top: 20px;
+    margin-bottom: 20px;/*espacio entre parrafos*/
+    
+}
+
+.card-link{
+    /*Tamaño de letra*/
+    font-size: 20px;
+    /*Color de letra*/
+    color: #11091a;
+    
+}
+
+.list-group{
+    color: #11091a;
+}
